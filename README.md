@@ -1,6 +1,6 @@
 # Create elementary OS Installer
 
-A simple Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should work on any version of OS X, although it has only been tested on OS X 10.10.5
+A simple Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should work on any version of OS X, although it has only been tested on OS X 10.10.5. The resulting USB drive should boot on newer Macs, as well as PCs.
 
 ## System Requirements
 
@@ -13,7 +13,7 @@ Only the following Macs are capable of starting up elementary OS/Linux from a US
 - iMac13,1 (Late 2012) or newer
 - Mac Pro5,1 (Mid 2010) or newer
 
-Please don't create a bug report if you're Mac is not on this list. Check out the [Mac Linux USB Loader](https://github.com/SevenBits/Mac-Linux-USB-Loader) instead.
+Please don't create a bug report if your Mac is below the system requirements. Check out the [Mac Linux USB Loader](https://github.com/SevenBits/Mac-Linux-USB-Loader) instead.
 
 
 ## Credits:
