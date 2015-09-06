@@ -15,10 +15,29 @@ Only the following Macs are capable of starting up elementary OS/Linux from a US
 
 Please don't create a bug report if your Mac is below the system requirements. Check out the [Mac Linux USB Loader](https://github.com/SevenBits/Mac-Linux-USB-Loader) instead.
 
+## Instructions
+
+### Get the app
+
+Click the "Download Zip" link on this page and open the app.
+
+### Select the elementary OS ISO file
+
+![](Screenshots/Select File.png)
+
+### Select the USB drive you wish to use and confirm you want to use it
+
+![](Screenshots/Select Drive.png)
+![](Screenshots/Drive Warning.png)
+
+### Enjoy your Installer
+
+![](Screenshots/Success.png)
+
+(Note: the UI text might differ from shown.)
 
 ## Credits:
 
 Most of this comes from Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator) with a large restructuring of the UI flow, a reduction in UI text, and the removal of the ISO conversion process.
 
 The elementary logo in the icon is from elementary LLC.
-
