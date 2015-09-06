@@ -41,3 +41,7 @@ Click the "Download Zip" link on this page and open the app.
 Most of this comes from Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator) with a large restructuring of the UI flow, a reduction in UI text, and the removal of the ISO conversion process.
 
 The elementary logo in the icon is from elementary LLC.
+
+## Disclaimer
+
+This is alpha software. Things might blow up; I'm not responsible.
