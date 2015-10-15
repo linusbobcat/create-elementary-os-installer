@@ -44,4 +44,4 @@ The elementary logo in the icon is from elementary LLC.
 
 ## Disclaimer
 
-This is alpha software. Things might blow up; I'm not responsible.
+This software is provided as is, without any warranty that it'll work.
