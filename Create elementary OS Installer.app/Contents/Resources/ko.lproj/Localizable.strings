@@ -1,14 +1,13 @@
 
-"AppTitle" = "Create elementary OS Installer";
-"Quit" = "Quit";
-"Cancel" = "Cancel";
-"Continue" = "Continue";
+"AppTitle" = "elementary OS 설치 도구 만들기 ";
+"Quit" = 끝내기";
+"Cancel" = "취소하기";
+"Continue" = "계속하기";
 
-"ChooseISO" = "Choose an elementary OS ISO file:";
-"NoDrivesFound" = "No suitable drives were found. Make sure your drive is plugged in and turned on.";
-"ChooseDrive" = "Choose a drive for the elementary OS installer:";
-"InstallComplete" = "The elementary OS Installer has been successfully created. To revert it to normal, erase it using Disk Utility.";
+"ChooseISO" = "elementary OS ISO 파일을 선택합니다:";
+"NoDrivesFound" = "사용할 만한 드라이브가 없습니다. 사용하시려는 드라이브가 꽂혀있고 켜져 있는지 확인해 주세요.";
+"ChooseDrive" = "elementary OS 설치 도구에 사용할 드라이브를 선택합니다:";
+"InstallComplete" = "elementary OS 설치 도구가 성공적으로 만들어졌습니다. 일반 장치로 다시 되돌리실 땐, 디스크 유틸리티로 지우시면 됩니다.";
 
-"DriveName" = "The drive \"";
-"EraseDriveName" = "\" will be erased and replaced with the contents of the elementary OS Installer. This will require administrative priviliges. Do you want to continue?";
-
+"DriveName" = "드라이브 \"";
+"EraseDriveName" = "\" 가 지워지고 elementary OS 설치 도구 내용으로 바뀌게 됩니다. 이 작업에는 관리자 권한이 필요합니다. 계속하시겠습니까?";
