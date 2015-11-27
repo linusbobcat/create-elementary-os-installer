@@ -45,7 +45,16 @@ Most of this comes from Sam Daitzman's [elementary thumbdrive creator](https://g
 
 The elementary logo in the icon is from elementary LLC.
 
+### Translations
+
 Thanks to [Adolfo Jayme-Barrientos](https://github.com/fitojb) for Catalan, Spanish, and Mexican Spanish translations.
+
+Thanks to [Jung-Kyu Park](https://github.com/bagjunggyu) for Korean translations.
+
+Thanks to [Leonardo Lemos](https://github.com/kydrix) for Portugese and Brazillian Portugese translations.
+
+thanks to [Влад Мерк](https://github.com/dveezhok) for Russian translations.
+
 
 ## Disclaimer
 
