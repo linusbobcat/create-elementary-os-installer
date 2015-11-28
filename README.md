@@ -1,9 +1,9 @@
 # Create elementary OS Installer
 
-A simple Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should work on any version of OS X, although it has only been tested on OS X 10.10.5. The resulting USB drive should boot on newer Macs, as well as PCs.
+A simple Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should work on Mac OS X Tiger or above, although it has only been tested on OS X 10.10.5. The resulting USB drive should boot on Macs that fullfil the system requirements, as well as any USB booting capable PC.
 
 ## Translators needed and welcome.
-If you want to help with translations in your own language, find out what [your language code is](http://loc.gov/standards/iso639-2/php/code_list.php) and start editing the translation folder at *"Create elementary OS Installer/Contents/Resources/en.lproj/Localization.strings". Replace "en.lproj" with your own language code, you may need to edit both the regular language code as well as the "language.lproj" one. You *do not* need to contribute OS X. Make sure the "localization.strings" file is encoded in utf-16. 
+If you want to help with translations in your own language, find out what [your language code is](http://loc.gov/standards/iso639-2/php/code_list.php) and start editing the translation folder at *"Create elementary OS Installer/Contents/Resources/en.lproj/Localization.strings".* Replace "en.lproj" with your own language code, you may need to edit both the regular language code as well as the "language.lproj" one. You *do not* need OS X in order to contribute. Make sure the "localization.strings" file is encoded in utf-16.
 
 ## System Requirements
 
@@ -16,7 +16,7 @@ Only the following Macs are capable of starting up elementary OS/Linux from a US
 - iMac13,1 (Late 2012) or newer
 - Mac Pro5,1 (Mid 2010) or newer
 
-Please don't create a bug report if your Mac is below the system requirements. Check out the [Mac Linux USB Loader](https://github.com/SevenBits/Mac-Linux-USB-Loader) instead.
+Please don't create a bug report if your Mac is below the system requirements. Check out the [Mac Linux USB Loader](https://github.com/SevenBits/Mac-Linux-USB-Loader) instead. Alternaltively, create a DVD based installer instead.
 
 ## Instructions
 
@@ -41,7 +41,7 @@ Click the "Download Zip" link on this page and open the app.
 
 ## Credits:
 
-Most of this comes from Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator) with a large restructuring of the UI flow, a reduction in UI text, and the removal of the ISO conversion process.
+Most of this is based off Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator). The large changes include: moving to Applescript from Automator, the removal of the ISO conversion process, a simpler UI flow, a massive reduction in UI text, bug fixes, and localization support.
 
 The elementary logo in the icon is from elementary LLC.
 
