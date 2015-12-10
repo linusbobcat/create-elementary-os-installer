@@ -1,15 +1,14 @@
 
 "AppTitle" = "Create elementary OS Installer";
-"Quit" = "Quit";
-"Cancel" = "Cancel";
-"Continue" = "Continue";
+"Quit" = "Beenden";
+"Cancel" = "Abbrechen";
+"Continue" = "Weiter";
 
-"ChooseISO" = "Choose an elementary OS ISO file:";
-"NoDrivesFound" = "No suitable drives were found. Make sure your drive is plugged in and turned on.";
-"ChooseDrive" = "Choose a drive for the elementary OS installer:";
-"InstallComplete" = "The elementary OS Installer has been successfully created. To revert it to normal, erase it using Disk Utility.";
-"InstallCompleteNotification" = "Installer successfully created.";
+"ChooseISO" = "Wählen Sie eine elementary OS ISO datei:";
+"NoDrivesFound" = "Keine passende Festplatte gefunden. Stellen Sie sicher, dass die Festplatte angeschlossen und eingeschaltet ist.";
+"ChooseDrive" = "Wählen Sie eine Festplatte für den elementary OS Installer:";
+"InstallComplete" = "Der elementary OS Installer wurde erfolgreich erstellt. Um die Festplatte normal nutzen zu können, formatieren Sie diese mit dem Festplattendienstprogramm";
+"InstallCompleteNotification" = "Der Installer wurde erfolgreich erstellt.";
 
-"DriveName" = "The drive \"";
-"EraseDriveName" = "\" will be erased and replaced with the contents of the elementary OS Installer. This will require administrative priviliges. Do you want to continue?";
-
+"DriveName" = "Die Festplatte \"";
+"EraseDriveName" = "\" wird gelöscht und der Inhalt mit dem elementary OS Installer ersetzt. Dies benötigt Administrator Rechte. Möchten Sie fortfahren?";
