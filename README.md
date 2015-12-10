@@ -55,6 +55,8 @@ Thanks to [Leonardo Lemos](https://github.com/kydrix) for Portugese and Brazilli
 
 thanks to [Влад Мерк](https://github.com/dveezhok) for Russian translations.
 
+Thanks to [Pascal Müller](https://github.com/paesku) for German translations.
+
 
 ## Disclaimer
 
