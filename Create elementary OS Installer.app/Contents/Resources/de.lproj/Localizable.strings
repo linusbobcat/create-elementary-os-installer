@@ -7,7 +7,7 @@
 "ChooseISO" = "Wählen Sie eine elementary OS ISO datei:";
 "NoDrivesFound" = "Keine passende Festplatte gefunden. Stellen Sie sicher, dass die Festplatte angeschlossen und eingeschaltet ist.";
 "ChooseDrive" = "Wählen Sie eine Festplatte für den elementary OS Installer:";
-"InstallComplete" = "Der elementary OS Installer wurde erfolgreich erstellt. Um die Festplatte normal nutzen zu können, formatieren Sie diese mit dem Festplattendienstprogramm";
+"InstallComplete" = "Der elementary OS Installer wurde erfolgreich erstellt. Um die Festplatte normal nutzen zu können, formatieren Sie diese mit dem Festplattendienstprogramm oder \"Restore USB Drive\"";
 "InstallCompleteNotification" = "Der Installer wurde erfolgreich erstellt.";
 
 "DriveName" = "Die Festplatte \"";

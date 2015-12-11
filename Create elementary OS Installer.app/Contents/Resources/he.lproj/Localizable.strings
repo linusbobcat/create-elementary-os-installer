@@ -7,7 +7,7 @@
 "ChooseISO" = "Choose an elementary OS ISO file:";
 "NoDrivesFound" = "No suitable drives were found. Make sure your drive is plugged in and turned on.";
 "ChooseDrive" = "Choose a drive for the elementary OS installer:";
-"InstallComplete" = "The elementary OS Installer has been successfully created. To revert it to normal, erase it using Disk Utility.";
+"InstallComplete" = "The elementary OS Installer has been successfully created. To revert it to normal, erase it using Disk Utility or \"Restore USB Drive\".";
 "InstallCompleteNotification" = "Installer successfully created.";
 
 "DriveName" = "The drive \"";
