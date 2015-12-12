@@ -7,8 +7,8 @@
 "Welcome" = "Diese Hilfssoftware setzt das elementary OS USB Laufwerk wieder auf Normal.";
 "NoDrivesFound" = "Keine passendes Laufwerk gefunden. Stellen Sie sicher, dass das Laufwerk angeschlossen und eingeschaltet ist.";
 "ChooseDrive" = "Wählen Sie ein Laufwerk zum wiederherstellen:";
-"InstallComplete" = "USB Laufwerk wurde erfolgreich wiederhergestellt";
-"InstallCompleteNotification" = "USB Laufwerk erfolgreich wiederhergestellt";
+"InstallComplete" = "Das USB Laufwerk wurde erfolgreich wiederhergestellt.";
+"InstallCompleteNotification" = "USB Laufwerk erfolgreich wiederhergestellt.";
 
 "DriveName" = "Das Laufwerk \"";
 "EraseDriveName" = "\" wird gelöscht. Möchten Sie fortfahren?";
