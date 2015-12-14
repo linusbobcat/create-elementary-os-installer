@@ -1,15 +1,15 @@
 
-"AppTitle" = "Restore USB Drive";
-"Quit" = "Quit";
-"Cancel" = "Cancel";
-"Continue" = "Continue";
+"AppTitle" = "Restaura la unitat USB";
+"Quit" = "Surt";
+"Cancel" = "Cancel·la";
+"Continue" = "Continua";
 
-"Welcome" = "This utility restores elementary OS USB drives to normal.";
-"NoDrivesFound" = "No suitable drives were found. Make sure your drive is plugged in and turned on.";
-"ChooseDrive" = "Choose a drive to restore:";
-"InstallComplete" = "USB Drive has been successfully restored";
-"InstallCompleteNotification" = "USB Drive successfully restored";
+"Welcome" = "Aquesta utilitat restaura les unitats USB de l’elementary OS a la normalitat.";
+"NoDrivesFound" = "No s’han trobat unitats apropiades. Assegureu-vos que la unitat estigui endollada i encesa.";
+"ChooseDrive" = "Trieu la unitat que s’ha de restaurar:";
+"InstallComplete" = "S’ha restaurat la unitat USB correctament";
+"InstallCompleteNotification" = "La unitat USB s’ha restaurat";
 
-"DriveName" = "The drive \"";
-"EraseDriveName" = "\" will be erased. Do you want to continue?";
+"DriveName" = "La unitat «";
+"EraseDriveName" = "» s’esborrarà. Voleu continuar?";
 
