@@ -67,4 +67,4 @@ Thanks to [Pascal Müller](https://github.com/paesku) for German translations.
 
 ## Disclaimer
 
-This software is provided as is, without any warranty that it'll work.
+This software is provided as is, without any warranty that it'll work. Although this app is recommended by the elementary website, this project is still unofficial and in no way part of elemetnary LLC.
