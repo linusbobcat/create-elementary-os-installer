@@ -1,15 +1,15 @@
 
-"AppTitle" = "Restore USB Drive";
-"Quit" = "Quit";
-"Cancel" = "Cancel";
-"Continue" = "Continue";
+"AppTitle" = "USB 복구 도구 만들기";
+"Quit" = "끝내기";
+"Cancel" = "취소하기";
+"Continue" = "계속하기";
 
-"Welcome" = "This utility restores elementary OS USB drives to normal.";
-"NoDrivesFound" = "No suitable drives were found. Make sure your drive is plugged in and turned on.";
-"ChooseDrive" = "Choose a drive to restore:";
-"InstallComplete" = "USB Drive has been successfully restored";
-"InstallCompleteNotification" = "USB Drive successfully restored";
+"Welcome" = "이 프로그램은 elementary OS USB 드라이브를 다시 원래 기본 USB로 되돌리는 프로그램입니다.";
+"NoDrivesFound" = "사용할 만한 드라이브가 없습니다. 사용하시려는 드라이브가 꽂혀있고 켜져 있는지 확인해 주세요.";
+"ChooseDrive" = "복구할 드라이브를 선택합니다:";
+"InstallComplete" = "USB 드라이브를 성공적으로 복구했습니다";
+"InstallCompleteNotification" = "USB 드라이브를 복구했습니다";
 
-"DriveName" = "The drive \"";
-"EraseDriveName" = "\" will be erased. Do you want to continue?";
+"DriveName" = "드라이브 \"";
+"EraseDriveName" = "\" 가 지워집니다. 계속하시겠습니까?";
 
