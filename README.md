@@ -60,10 +60,11 @@ Thanks to [Jung-Kyu Park](https://github.com/bagjunggyu) for Korean translations
 
 Thanks to [Leonardo Lemos](https://github.com/kydrix) for Portugese and Brazillian Portugese translations.
 
-thanks to [Влад Мерк](https://github.com/dveezhok) for Russian translations.
+Thanks to [Влад Мерк](https://github.com/dveezhok) for Russian translations.
 
 Thanks to [Pascal Müller](https://github.com/paesku) for German translations.
 
+Thanks to [Gildev](https://github.com/GilDev) for French translations.
 
 ## Disclaimer
 
