@@ -48,7 +48,7 @@ On OS X Yosemite and below, open Disk Utility and choose the "Partition" or "Era
 
 ## Credits:
 
-Most of this is based off Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator). The large changes include: moving to Applescript from Automator, the removal of the ISO conversion process, a simpler UI flow, a massive reduction in UI text, bug fixes, and localization support.
+Large portions of this program is based off Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator) which is licensed under the terms of the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) with changes.
 
 The elementary logo in the icon is from elementary LLC.
 
@@ -68,4 +68,21 @@ Thanks to [Gildev](https://github.com/GilDev) for French translations.
 
 ## Disclaimer
 
-This software is provided as is, without any warranty that it'll work. Although this app is recommended by the elementary website, this project is still unofficial and in no way part of elementary LLC.
+Create elementary OS Installer
+
+Copyright (C) 2015, 2016 Linus Bobcat, Sam Daitzman
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Although this app is recommended by the elementary website, this project is still unofficial and in no way part of elementary LLC.
