@@ -68,4 +68,4 @@ Thanks to [Gildev](https://github.com/GilDev) for French translations.
 
 ## Disclaimer
 
-This software is provided as is, without any warranty that it'll work. Although this app is recommended by the elementary website, this project is still unofficial and in no way part of elemetnary LLC.
+This software is provided as is, without any warranty that it'll work. Although this app is recommended by the elementary website, this project is still unofficial and in no way part of elementary LLC.
