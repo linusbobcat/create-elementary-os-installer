@@ -10,6 +10,6 @@
 "InstallComplete" = "Le disque USB a bien été restauré.";
 "InstallCompleteNotification" = "Disque USB restauré avec succès";
 
-"DriveName" = "Le disque \"";
-"EraseDriveName" = "\" va être effacé. Voulez-vous continuer ?";
+"DriveName" = "Le disque «";
+"EraseDriveName" = "» va être effacé. Voulez-vous continuer ?";
 
