@@ -7,7 +7,7 @@
 "ChooseISO" = "elementary OS ISO 파일을 선택합니다:";
 "NoDrivesFound" = "사용할 만한 드라이브가 없습니다. 사용하시려는 드라이브가 꽂혀있고 켜져 있는지 확인해 주세요.";
 "ChooseDrive" = "elementary OS 설치 도구에 사용할 드라이브를 선택합니다:";
-"InstallComplete" = "elementary OS 설치 도구가 성공적으로 만들어졌습니다. 일반 장치로 다시 되돌리실 땐, 디스크 유틸리티로 지우시거나 \"Restore USB Drive\" 하세요.";
+"InstallComplete" = "elementary OS 설치 도구가 성공적으로 만들어졌습니다. 일반 장치로 다시 되돌리실 땐, 디스크 유틸리티로 지우시거나 \"USB 복구 도구 만들기\" 하세요.";
 "InstallCompleteNotification" = "elementary OS 설치 도구가 성공적으로 만들어졌습니다.";
 
 "DriveName" = "드라이브 \"";

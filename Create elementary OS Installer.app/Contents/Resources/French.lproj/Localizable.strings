@@ -7,7 +7,7 @@
 "ChooseISO" = "Sélectionnez une image ISO Elementary OS :";
 "NoDrivesFound" = "Aucun disque de stockage approprié trouvé. Vérifiez que votre disque est branché et allumé.";
 "ChooseDrive" = "Choisissez un disque pour l'installeur Elementary OS:";
-"InstallComplete" = "L'installeur Elementary OS a bien été créé. Pour restaurer le disque, formatez-le en utilisant Utilitaire de Disque ou \"Restore USB Drive\".";
+"InstallComplete" = "L'installeur Elementary OS a bien été créé. Pour restaurer le disque, formatez-le en utilisant Utilitaire de Disque ou «Restaurer un disque USB».";
 "InstallCompleteNotification" = "Installeur créé avec succès.";
 
 "DriveName" = "Le disque «";
