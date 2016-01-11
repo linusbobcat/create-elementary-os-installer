@@ -12,3 +12,4 @@
 
 "DriveName" = "Das Laufwerk \"";
 "EraseDriveName" = "\" wird gelöscht. Möchten Sie fortfahren?";
+"NameUSBDrive" = "Name";
