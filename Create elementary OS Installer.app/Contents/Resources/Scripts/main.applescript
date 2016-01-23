@@ -79,7 +79,7 @@ try
 	set selectedDrive to {choose from list allDrives with prompt (localized string "ChooseDrive")} as text
 	
 	set devicePath to POSIX path of "/Volumes/" & selectedDrive
-	set mainDrive to do shell script "diskutil list | grep \"" & selectedDrive & "\" | grep -oh \"\\w*disk*\\w\";"
+	set mainDrive to do shell script "diskutil list | grep \"" & selectedDrive & "\" | grep -oh \"\\w*disk*\\w\\" -- & " |  sed '/[a-zA-Z]$////';"
 	
 	display dialog (localized string "DriveName") & selectedDrive & (localized string "EraseDriveName") buttons {localized string "Cancel", localized string "Continue"} with title (localized string "AppTitle") with icon note
 	
