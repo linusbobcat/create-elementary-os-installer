@@ -1,11 +1,6 @@
 (*To test translations, temporarily place the contents on the script at the end and comment out the rest of script.*)
 
-(*For "Restore USB Drive", Otherwise it will display "Welcome"*)
-display dialog (localized string "Welcome")
-
-(*For "Create elementary OS Installer", otherwise it will display "ChooseISO"*)
-display dialog (localized string "ChooseISO")
-
+(*Shared*)
 display dialog (localized string "ChooseDrive")
 
 display dialog (localized string "NoDrivesFound") with title (localized string "AppTitle") buttons {localized string "Quit"} default button 1
@@ -14,4 +9,18 @@ display dialog (localized string "DriveName") & (localized string "EraseDriveNam
 
 display dialog (localized string "InstallComplete") with title (localized string "AppTitle") buttons {localized string "Quit"} default button 1
 
+(*For "Restore USB Drive"*)
+display dialog (localized string "Welcome")
+
+(*For "Create elementary OS Installer"*)
+display dialog (localized string "ChooseISO")
+
+display dialog (localized string "OldMacWarning") with title (localized string "AppTitle") with icon caution buttons {localized string "Quit", "ContinueAnyway"} default button 1
+
+do shell script "sleep 1"
+
 display notification (localized string "InstallCompleteNotification") with title (localized string "AppTitle")
+
+display dialog (localized string "confirmQuit") buttons {localized string "continue", localized string "quit"} default button 1 with title (localized string "AppTitle") with icon caution
+
+
