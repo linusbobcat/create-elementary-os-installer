@@ -1,8 +1,8 @@
 # Create elementary OS Installer
 
-An Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should work on Mac OS X Snow Leopard and above, although it has only been tested on OS X Mavericks (10.9), OS X Yosemite (10.10), and OS X El Capitan (10.11). The resulting USB drive should boot on Macs that fullfil the system requirements, as well as any USB booting capable PC.
+An Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should run on Mac OS X Snow Leopard and above. The resulting USB drive should boot on Macs that fullfil the system requirements, as well as any USB booting capable PC.
 
-This project consists of two apps, "Create elementary OS Installer" and "Restore USB Drive." The second app restores elementary OS Installers on El Capitan and above.
+This project consists of two apps, "Create elementary OS Installer" and "Restore USB Drive." The second app restores elementary OS Installers on El Capitan and above. There are two versions of the former, one of which runs on Mac OS X Lion and below, the other on OS X Mountain Lion and above.
 
 If you have a recent Mac, just download the most [recent release](https://github.com/linusbobcat/create-elementary-os-installer/releases) and follow the built in instructions. View the [wiki page](https://github.com/linusbobcat/create-elementary-os-installer/wiki/Installation-Instructions) for complete instructions.
 
@@ -12,9 +12,9 @@ If you want to help with translate this to your own language, read [this page](h
 
 ## Credits:
 
-Large portions of this program is based off Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator) which is licensed under the terms of the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) with changes.
+Portions of this program is based off Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator) which is licensed under the terms of the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) with changes.
 
-The elementary logo in the icon is from elementary LLC.
+The elementary logo in the icons is from elementary LLC.
 
 ### Translations
 
