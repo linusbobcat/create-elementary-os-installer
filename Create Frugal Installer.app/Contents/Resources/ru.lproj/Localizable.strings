@@ -1,0 +1,13 @@
+"AppTitle" = "Создать Установщик elementary OS";
+"Quit" = "Выйти";
+"Cancel" = "Отмена";
+"Continue" = "Далее";
+
+"ChooseISO" = "Выберите ISO-файл с elementary OS:";
+"NoDrivesFound" = "Подходящие диски не найдены. Убедитесь, что диск (или флешка) подключен и работает.";
+"ChooseDrive" = "Выберите диск для Установщика elementary OS:";
+"InstallComplete" = "Установщик elementary OS успешно создан. Чтобы вернуть диск к обычному состоянию, сотрите его через Дисковую утилиту.";
+"InstallCompleteNotification" = "Установщик elementary OS успешно создан.";
+
+"DriveName" = "Диск \"";
+"EraseDriveName" = "\" будет удален и записан Установщик elementary OS. Это требует привилигей Администратора. Продолжим?";

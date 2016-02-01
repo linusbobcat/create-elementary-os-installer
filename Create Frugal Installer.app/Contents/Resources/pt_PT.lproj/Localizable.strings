@@ -1,0 +1,15 @@
+
+"AppTitle" = "Criar instalador do elementary OS";
+"Quit" = "Sair";
+"Cancel" = "Cancelar";
+"Continue" = "Continuar";
+
+"ChooseISO" = "Escola um arquivo ISO do elementary OS:";
+"NoDrivesFound" = "Nenhum drive adequado foi encontrado. Tenha certeza de que um drive está plugado e ligado.";
+"ChooseDrive" = "Escolha um drive para o instalador do elementary OS:";
+"InstallComplete" = "O instalador do elementary OS foi criado com sucesso. Para reverter ao normal, apague-o utilizando o Utilitário de Disco ou \"Restore USB Drive\".";
+"InstallCompleteNotification" = "O instalador do elementary OS foi criado com sucesso.";
+
+"DriveName" = "O drive \"";
+"EraseDriveName" = "\" será apagado e substituído com o conteúdo do instalador do elementary OS. Isso precisará de privilégios administrativos. Você deseja continuar?";
+
