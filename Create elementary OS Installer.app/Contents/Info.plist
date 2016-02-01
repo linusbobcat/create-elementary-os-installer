@@ -11,7 +11,7 @@
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.Create-elementary-OS-Installer</string>
+	<string>com.apple.ScriptEditor.id.Create-elementary-OS-Installer-old</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -19,7 +19,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.2.6</string>
+	<string>0.2.6-snowleopard</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
 	<key>LSHasLocalizedDisplayName</key>
@@ -35,22 +35,18 @@
 	<string>© 2015 - 2016, Linus Bobcat, Sam Daitzman</string>
 	<key>WindowState</key>
 	<dict>
-		<key>bundleDividerCollapsed</key>
-		<false/>
-		<key>bundlePositionOfDivider</key>
-		<real>1002</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>2</integer>
+		<integer>-1</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>1048</real>
+		<real>624</real>
 		<key>savedFrame</key>
-		<string>1283 104 1280 1313 0 0 2560 1417 </string>
-		<key>selectedTab</key>
-		<string>log</string>
+		<string>0 128 927 1050 0 0 1920 1178 </string>
+		<key>selectedTabView</key>
+		<string>event log</string>
 	</dict>
 </dict>
 </plist>
