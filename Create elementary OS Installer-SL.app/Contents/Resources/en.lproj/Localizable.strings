@@ -1,15 +1,59 @@
-
-"AppTitle" = "Create elementary OS Installer";
+/*Shared Button Translations*/
 "Quit" = "Quit";
 "Cancel" = "Cancel";
 "Continue" = "Continue";
+"ContinueAnyway" = "Continue Anyway";
 
-"ChooseISO" = "Choose an elementary OS ISO file:";
+/*Escaped Quotes. Remove the backslash and turn the quote into guillemets if needed*/
+"EscapedQuoteStart" = "\""
+"EscapedQuoteEnd" = "\""
+
+/*Shared Warnings*/
 "NoDrivesFound" = "No suitable drives were found. Make sure your drive is plugged in and turned on.";
+
+/*This translation hides the stupid non-zero exit from OS X. Please ignore, Linus will translate this himself.*/
+"NonZeroExit" = "The command exited with a non-zero status."
+
+
+/*Create elementary OS Installer*/
+
+"CreateInstallerAppTitle" = "Create elementary OS Installer";
+
+/*Buttons*/
+"OpenHomepage" = "Get Newer Version"
+
+/*Dialogs*/
+"ChooseISO" = "Choose an elementary OS ISO file:";
 "ChooseDrive" = "Choose a drive for the elementary OS installer:";
 "InstallComplete" = "The elementary OS Installer has been successfully created. To revert it to normal, erase it using Disk Utility or \"Restore USB Drive\".";
 "InstallCompleteNotification" = "Installer successfully created.";
 
-"DriveName" = "The drive \"";
-"EraseDriveName" = "\" will be erased and replaced with the contents of the elementary OS Installer. This will require administrative priviliges. Do you want to continue?";
+/*Warnings*/
+"OldMacWarning" = "This Mac model may have trouble starting elementary OS from a USB drive. It may be neccessary to install rEFInd, use the \"Linux Mac USB Creator\", or create a DVD based installer instead."
+"newOSXVersion" = "This version of \"Create elementary OS Installer\" was made for Mac OS X 10.8 and below."
+"PPCWarning" = "elementary OS doesn't support PowerPC based Macs. The resulting USB drive can only be used on PCs and on newer supported Intel based Macs"
+"XServeWarning" = "elementary OS doesn't support Xserve type Macs. The resulting USB drive can only be used on other recent Mac types that are Intel-based"
+"ConfirmQuit" = "Quitting now may lead the USB drive to be in an unusable state. You may need to restore it using Disk Utility or \"Restore USB Drive\" if you choose to quit."
 
+/*Progress bar text*/
+"ReformatDisk" = "Reformating the disk…";
+/*This is followed by the name of the USB drive in the app.*/
+"CopyingISO" = "Copying elementary OS to the drive \"";
+
+/*Multi part translation. Make sure to replace the escaped quotes with guillemets if required*/
+"DriveName" = "The drive \"";
+"ConfirmReformatDriveName" = "\" will be erased and replaced with the contents of the elementary OS installer. This will require administrative priviliges. Do you want to continue?";
+
+
+/*Restore USB Drive.*/
+
+"RestoreUSBDriveAppTitle" = "Restore USB Drive";
+
+"ChooseDriveRestore" = "Choose a drive to restore";
+"ConfirmRestoreDriveName" = "\" will be erased. Do you want to continue?";
+"RestoreComplete" = "USB Drive has been successfully restored";
+"RestoreCompleteNotification = "USB Drive has been successfully restored";
+
+/*Do not translate LocalizedUSBDriveName if it contains Unicode characters. This is unfortunately a technical limitation*/
+"LocalizedUSBDriveName" = "USB Drive";
+"NameUSBDrive" = "Name USB Drive";
