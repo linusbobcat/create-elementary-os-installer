@@ -10,6 +10,10 @@ If you have a recent Mac, just download the most [recent release](https://github
 
 If you want to help with translate this to your own language, read [this page](https://github.com/linusbobcat/create-elementary-os-installer/wiki/Translations). **You do not require OS X in order to contribute!**
 
+## Using the main branch
+
+A filter driver is used to decompile Applescripts when commiting, and recompiling when back when they're pulled. Make sure to install the [filter driver](https://stackoverflow.com/questions/7641806/how-would-you-put-an-applescript-script-under-version-control). Commits since Feb 6, 2016 have this applied.
+
 ## Credits:
 
 Portions of this program is based off Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator) which is licensed under the terms of the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) with changes.
@@ -31,6 +35,8 @@ Thanks to [Pascal Müller](https://github.com/paesku) for German translations.
 Thanks to [Gildev](https://github.com/GilDev) for French translations.
 
 ## Disclaimer
+
+Everything except the filter driver is licensed under the GPL 3.
 
 Create elementary OS Installer
 
