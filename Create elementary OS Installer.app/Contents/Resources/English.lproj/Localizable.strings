@@ -5,14 +5,14 @@
 "ContinueAnyway" = "Continue Anyway";
 
 /*Escaped Quotes. Remove the backslash and turn the quote into guillemets if needed*/
-"EscapedQuoteStart" = "\""
-"EscapedQuoteEnd" = "\""
+"EscapedQuoteStart" = " \"";
+"EscapedQuoteEnd" = "\" ";
 
 /*Shared Warnings*/
 "NoDrivesFound" = "No suitable drives were found. Make sure your drive is plugged in and turned on.";
 
 /*This translation hides the stupid non-zero exit from OS X. Please ignore, Linus will translate this himself.*/
-"NonZeroExit" = "The command exited with a non-zero status."
+"NonZeroExit" = "The command exited with a non-zero status.";
 
 
 /*Create elementary OS Installer*/
@@ -20,7 +20,7 @@
 "CreateInstallerAppTitle" = "Create elementary OS Installer";
 
 /*Buttons*/
-"OpenHomepage" = "Get Newer Version"
+"OpenHomepage" = "Get Newer Version";
 
 /*Dialogs*/
 "ChooseISO" = "Choose an elementary OS ISO file:";
@@ -29,11 +29,11 @@
 "InstallCompleteNotification" = "Installer successfully created.";
 
 /*Warnings*/
-"OldMacWarning" = "This Mac model may have trouble starting elementary OS from a USB drive. It may be neccessary to install rEFInd, use the \"Linux Mac USB Creator\", or create a DVD based installer instead."
-"newOSXVersion" = "This version of \"Create elementary OS Installer\" was made for Mac OS X 10.8 and below."
-"PPCWarning" = "elementary OS doesn't support PowerPC based Macs. The resulting USB drive can only be used on PCs and on newer supported Intel based Macs"
-"XServeWarning" = "elementary OS doesn't support Xserve type Macs. The resulting USB drive can only be used on other recent Mac types that are Intel-based"
-"ConfirmQuit" = "Quitting now may lead the USB drive to be in an unusable state. You may need to restore it using Disk Utility or \"Restore USB Drive\" if you choose to quit."
+"OldMacWarning" = "This Mac model may have trouble starting elementary OS from a USB drive. It may be neccessary to install rEFInd, use the \"Linux Mac USB Creator\", or create a DVD based installer instead.";
+"newOSXVersion" = "This version of \"Create elementary OS Installer\" was made for Mac OS X 10.8 and below.";
+"PPCWarning" = "elementary OS doesn't support PowerPC based Macs. The resulting USB drive can only be used on PCs and on newer supported Intel based Macs";
+"XServeWarning" = "elementary OS doesn't support Xserve type Macs. The resulting USB drive can only be used on other recent Mac types that are Intel-based";
+"ConfirmQuit" = "Quitting now may lead the USB drive to be in an unusable state. You may need to restore it using Disk Utility or \"Restore USB Drive\" if you choose to quit.";
 
 /*Progress bar text*/
 "ReformatDisk" = "Reformating the disk…";
@@ -52,7 +52,7 @@
 "ChooseDriveRestore" = "Choose a drive to restore";
 "ConfirmRestoreDriveName" = "\" will be erased. Do you want to continue?";
 "RestoreComplete" = "USB Drive has been successfully restored";
-"RestoreCompleteNotification = "USB Drive has been successfully restored";
+"RestoreCompleteNotification" = "USB Drive has been successfully restored";
 
 /*Do not translate LocalizedUSBDriveName if it contains Unicode characters. This is unfortunately a technical limitation*/
 "LocalizedUSBDriveName" = "USB Drive";
