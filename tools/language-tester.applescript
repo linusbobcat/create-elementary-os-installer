@@ -32,7 +32,7 @@ display dialog (localized string "DiskNotPartitioned") with title (localized str
 
 (*If this reports nothing, the translation worked, if it reports a non-zero exit error, copy the error and use that as the translation*)
 try
-	return 1
+	do shell script "false"
 	
 on error errorMessage
 	
@@ -50,4 +50,5 @@ on error errorMessage
 	
 	
 end try
+
 
