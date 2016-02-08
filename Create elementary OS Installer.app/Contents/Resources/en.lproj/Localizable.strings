@@ -20,7 +20,7 @@
 "CreateInstallerAppTitle" = "Create elementary OS Installer";
 
 /*Buttons*/
-"OpenHomepage" = "Get Newer Version";
+"Download" = "Download";
 
 /*Dialogs*/
 "ChooseISO" = "Choose an elementary OS ISO file:";
