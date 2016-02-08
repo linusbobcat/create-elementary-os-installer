@@ -17,7 +17,7 @@
 
 /*Create elementary OS Installer*/
 
-"CreateInstallerApptitle" = "Create elementary OS Installer";
+"CreateInstallerAppTitle" = "Create elementary OS Installer";
 
 /*Buttons*/
 "OpenHomepage" = "Get Newer Version";

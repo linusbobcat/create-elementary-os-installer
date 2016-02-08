@@ -2,7 +2,6 @@
 "Quit" = "Quit";
 "Cancel" = "Cancel";
 "Continue" = "Continue";
-"ContinueAnyway" = "Continue Anyway";
 
 /*Escaped Quotes. Remove the backslash and turn the quote into guillemets if needed*/
 "EscapedQuoteStart" = " \"";
