@@ -30,7 +30,7 @@
 
 /*Warnings*/
 "OldMacWarning" = "This Mac model may have trouble starting elementary OS from a USB drive. It may be neccessary to install rEFInd, use the \"Linux Mac USB Creator\", or create a DVD based installer instead.";
-"newOSXVersion" = "This version of \"Create elementary OS Installer\" was made for Mac OS X 10.8 and below.";
+"newOSXVersion" = "This version of \"Create elementary OS Installer\" was made for Mac OS X 10.8 and below. It's recommended to use the newer version.";
 "PPCWarning" = "elementary OS doesn't support PowerPC based Macs. The resulting USB drive can only be used on PCs and on newer supported Intel based Macs";
 "XServeWarning" = "elementary OS doesn't support Xserve type Macs. The resulting USB drive can only be used on other recent Mac types that are Intel-based";
 "ConfirmQuit" = "Quitting now may lead the USB drive to be in an unusable state. You may need to restore it using Disk Utility or \"Restore USB Drive\" if you choose to quit.";
