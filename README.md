@@ -32,8 +32,6 @@ Thanks to [Gildev](https://github.com/GilDev) for French translations.
 
 ## Disclaimer
 
-Everything except the filter driver is licensed under the GPL 3.
-
 Create elementary OS Installer
 
 Copyright (C) 2015, 2016 Linus Bobcat, Sam Daitzman
