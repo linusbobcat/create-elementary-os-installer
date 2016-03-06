@@ -30,7 +30,7 @@ display dialog (localized string "XServeWarning") with title (localized string "
 display dialog (localized string "ReformatDisk") buttons {localized string "continue"} default button 1 with title (localized string "CreateInstallerAppTitle")
 display dialog (localized string "CopyingISO") buttons {localized string "continue"} default button 1 with title (localized string "CreateInstallerAppTitle")
 display dialog (localized string "confirmQuit") buttons {localized string "continue", localized string "quit"} default button 1 with title (localized string "CreateInstallerAppTitle") with icon caution
-display dialog (localized string "DriveName") & (localized string "EraseDriveName") buttons {localized string "Quit", localized string "Continue"} with title (localized string "CreateInstallerAppTitle") default button 2
+display dialog (localized string "DriveName") & (localized string "ConfirmReformatDriveName") buttons {localized string "Quit", localized string "Continue"} with title (localized string "CreateInstallerAppTitle") default button 2
 display dialog (localized string "InstallComplete") with title (localized string "CreateInstallerAppTitle") buttons {localized string "Quit"} default button 1
 
 do shell script "sleep 1"
