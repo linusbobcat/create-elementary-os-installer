@@ -32,6 +32,10 @@ display dialog (localized string "CopyingISO") buttons {localized string "contin
 display dialog (localized string "confirmQuit") buttons {localized string "continue", localized string "quit"} default button 1 with title (localized string "CreateInstallerAppTitle") with icon caution
 display dialog (localized string "DriveName") & (localized string "ConfirmReformatDriveName") buttons {localized string "Quit", localized string "Continue"} with title (localized string "CreateInstallerAppTitle") default button 2
 display dialog (localized string "InstallComplete") with title (localized string "CreateInstallerAppTitle") buttons {localized string "Quit"} default button 1
+display dialog (localized string "AdminDialog") & "USB Drive" & "EscapedQuoteEnd"
+display dialog (localized string "NotEnoughSpace")
+
+
 
 do shell script "sleep 1"
 display notification (localized string "InstallCompleteNotification") with title (localized string "CreateInstallerAppTitle")
