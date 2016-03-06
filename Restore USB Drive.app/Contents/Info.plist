@@ -11,7 +11,7 @@
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.Restore-USB-Drive</string>
+	<string>org.linusbobcat.Restore-USB-Drive</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -19,7 +19,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.1.4</string>
+	<string>0.1.5</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
 	<key>LSHasLocalizedDisplayName</key>
@@ -48,7 +48,7 @@
 		<key>positionOfDivider</key>
 		<real>1195</real>
 		<key>savedFrame</key>
-		<string>1280 103 1280 1314 0 0 2560 1417 </string>
+		<string>0 103 1280 1314 0 0 2560 1417 </string>
 		<key>selectedTab</key>
 		<string>log</string>
 	</dict>
