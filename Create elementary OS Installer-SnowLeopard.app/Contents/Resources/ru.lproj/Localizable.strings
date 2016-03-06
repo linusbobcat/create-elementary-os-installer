@@ -11,3 +11,6 @@
 
 "DriveName" = "Диск \"";
 "EraseDriveName" = "\" будет удален и записан Установщик elementary OS. Это требует привилигей Администратора. Продолжим?";
+
+"PartitionName" = "The partition \"";
+"EraseMultiplePartitions" = "\" is on a drive with multiple partitions. Are you sure you want to erase the entire drive and replace it with the contents of the elementary OS installer?";

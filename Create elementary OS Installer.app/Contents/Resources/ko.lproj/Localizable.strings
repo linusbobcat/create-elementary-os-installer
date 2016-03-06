@@ -12,3 +12,6 @@
 
 "DriveName" = "드라이브 \"";
 "EraseDriveName" = "\" 가 지워지고 elementary OS 설치 도구 내용으로 바뀌게 됩니다. 이 작업에는 관리자 권한이 필요합니다. 계속하시겠습니까?";
+
+"PartitionName" = "The partition \"";
+"EraseMultiplePartitions" = "\" is on a drive with multiple partitions. Are you sure you want to erase the entire drive and replace it with the contents of the elementary OS installer?";

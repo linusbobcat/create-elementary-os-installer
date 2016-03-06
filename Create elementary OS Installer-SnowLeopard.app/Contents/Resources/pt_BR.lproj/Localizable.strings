@@ -13,3 +13,5 @@
 "DriveName" = "O drive \"";
 "EraseDriveName" = "\" será apagado e substituído com o conteúdo do instalador do elementary OS. Isso precisará de privilégios administrativos. Você deseja continuar?";
 
+"PartitionName" = "The partition \"";
+"EraseMultiplePartitions" = "\" is on a drive with multiple partitions. Are you sure you want to erase the entire drive and replace it with the contents of the elementary OS installer?";

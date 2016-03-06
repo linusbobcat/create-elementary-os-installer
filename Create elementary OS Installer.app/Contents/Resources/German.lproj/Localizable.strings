@@ -11,3 +11,6 @@
 
 "DriveName" = "Das Laufwerk \"";
 "EraseDriveName" = "\" wird gelöscht und der Inhalt mit dem elementary OS Installer ersetzt. Dies benötigt Administrator Rechte. Möchten Sie fortfahren?";
+
+"PartitionName" = "The partition \"";
+"EraseMultiplePartitions" = "\" is on a drive with multiple partitions. Are you sure you want to erase the entire drive and replace it with the contents of the elementary OS installer?";
