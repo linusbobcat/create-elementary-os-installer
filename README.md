@@ -6,6 +6,8 @@ This project consists of two apps, "Create elementary OS Installer" and "Restore
 
 If you have a recent Mac, just download the most [recent release](https://github.com/linusbobcat/create-elementary-os-installer/releases) and follow the built in instructions. View the [wiki page](https://github.com/linusbobcat/create-elementary-os-installer/wiki/Instructions) for complete instructions.
 
+Do note that the main branch is the development branch. Use it as your own risk.
+
 ## Translators welcome
 
 If you want to help with translate this to your own language, read [this page](https://github.com/linusbobcat/create-elementary-os-installer/wiki/Translations). **You do not require OS X in order to contribute!**
