@@ -1,12 +1,12 @@
 # Create elementary OS Installer
 
-An Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should run on Mac OS X Snow Leopard and above. The resulting USB drive should boot on Macs that fullfil the system requirements, as well as any USB booting capable PC.
+An Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should run on Mac OS X Snow Leopard and above. The resulting USB drive should boot on Macs that fulfill the system requirements, as well as any USB booting capable PC.
 
-The releases of this app contains two apps, "Create elementary OS Installer" and "Restore USB Drive." The second app restores elementary OS Installers on El Capitan and above. There are two versions of the former, one of which runs on Mac OS X Lion and below, the other on OS X Mountain Lion and above. Restore USB Drive is maintained [here](https://github.com/linusbobcat/restore-linux-usb-drive)
+Included in releases is a copy of "Restore USB Drive." This reformats elementary OS USB drives back to normal on El Capitan and above. Restore USB Drive is maintained [here](https://github.com/linusbobcat/restore-linux-usb-drive)
 
 If you have a recent Mac, just download the most [recent release](https://github.com/linusbobcat/create-elementary-os-installer/releases) and follow the built in instructions. View the [wiki page](https://github.com/linusbobcat/create-elementary-os-installer/wiki/Instructions) for complete instructions.
 
-Do note that the main branch is the development branch. Use it as your own risk.
+**Do note that the main branch is the development branch. Use it as your own risk.**
 
 ## Translators welcome
 
