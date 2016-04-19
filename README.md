@@ -18,20 +18,6 @@ Portions of this program is based off Sam Daitzman's [elementary thumbdrive crea
 
 The elementary logo in the icons is from elementary LLC.
 
-### Translations
-
-Thanks to [Adolfo Jayme-Barrientos](https://github.com/fitojb) for Catalan, Spanish, and Mexican Spanish translations.
-
-Thanks to [Jung-Kyu Park](https://github.com/bagjunggyu) for Korean translations.
-
-Thanks to [Leonardo Lemos](https://github.com/kydrix) for Portugese and Brazillian Portugese translations.
-
-Thanks to [Влад Мерк](https://github.com/dveezhok) for Russian translations.
-
-Thanks to [Pascal Müller](https://github.com/paesku) for German translations.
-
-Thanks to [Gildev](https://github.com/GilDev) for French translations.
-
 ## Disclaimer
 
 Create elementary OS Installer
