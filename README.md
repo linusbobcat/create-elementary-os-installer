@@ -1,3 +1,6 @@
+## Development for this project has ceased. This project is in a permanent hiatus. 
+If anyone wants to take over, just fork it and notify me so I’ll be able to link to it.
+
 # Create elementary OS Installer
 
 An Applescript app for creating elementary OS Installer USB drives. It uses dd as a backend. It should run on Mac OS X Snow Leopard and above. The resulting USB drive should boot on Macs that fulfill the system requirements, as well as any USB booting capable PC.
