@@ -1,5 +1,0 @@
-"ChooseISO" = "Select the elementary OS ISO file"
-"InsertChecksum" = "Copy and paste the checksum from the elementary website"
-
-"CorrectChecksum" = "The checksum matches"
-"InvalidChecksum" = "The checksum did not match the ISO file."
